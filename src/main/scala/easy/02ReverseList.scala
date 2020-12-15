@@ -1,7 +1,5 @@
 package easy
 
-import scala.util.Random
-
 object ReverseList02 extends App {
 
   import scala.collection.mutable.ListBuffer
