@@ -1,6 +1,6 @@
-package easy
+package main.scala.extra
 
-object DateDiff09 extends App {
+object DateDiff01 extends App {
   val birthday = "2019/12/19"
   val currentDay = "2020/12/15"
 

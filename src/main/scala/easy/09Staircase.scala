@@ -1,6 +1,6 @@
 package easy
 
-object Staircase08 extends App {
+object Staircase09 extends App {
   val value = Utils.getRandomArray(1, 3, 10).head
 
   staircase(value)
